@@ -4,3 +4,4 @@ This repository contains or links to all assets relevant to the WWW'20 paper: Th
 
 * Lists used for crawls - under lists directory
 * Trexa repo - https://github.com/mozilla/trexa
+* Crawl preparation - pre crawl and depth crawl code - https://github.com/mozilla/crawl-prep
