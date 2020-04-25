@@ -6,5 +6,7 @@ This repository contains or links to all assets relevant to the WWW'20 paper: Th
 * Trexa repo - https://github.com/mozilla/trexa
 * Crawl preparation - pre crawl and depth crawl code - https://github.com/mozilla/crawl-prep
 * Crawl database - [Google Doc](https://docs.google.com/spreadsheets/d/1HlocB39Ujaw2JH4Nm_0lXFqQ6GcQjJ7ONHHLFq-NReI/)
-* Crawl downloads - coming (est Apr, 2019)
+* Crawl downloads - coming (est Apr 2020)
 * Alternate orchestration repo - https://github.com/birdsarah/faust-selenium
+* List comparison analysis (est Apr 30, 2020)
+* DP-protected top-level domain visit counts for opt-in human users (est Apr 30, 2020)
