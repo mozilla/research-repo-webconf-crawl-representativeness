@@ -10,3 +10,24 @@ This repository contains or links to all assets relevant to the WWW'20 paper: [T
 * Alternate orchestration repo - https://github.com/birdsarah/faust-selenium
 * [List comparison analysis](./list-comparison/top-site-list-comparison.ipynb)
 * DP-protected top-level domain visit counts for opt-in human users (est Apr 30, 2020)
+
+If you find any of the resources contained int his repository valuable for your research please cite the original manuscript for which this work was produced:
+
+```
+@inproceedings{10.1145/3366423.3380104,
+author = {Zeber, David and Bird, Sarah and Oliveira, Camila and Rudametkin, Walter and Segall, Ilana and Wolls\'{e}n, Fredrik and Lopatka, Martin},
+title = {The Representativeness of Automated Web Crawls as a Surrogate for Human Browsing},
+year = {2020},
+isbn = {9781450370233},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3366423.3380104},
+doi = {10.1145/3366423.3380104},
+booktitle = {Proceedings of The Web Conference 2020},
+pages = {167–178},
+numpages = {12},
+keywords = {Web Crawling, Online Privacy, Tracking, Browser Fingerprinting, World Wide Web},
+location = {Taipei, Taiwan},
+series = {WWW ’20}
+}
+```
