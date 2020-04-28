@@ -1,6 +1,6 @@
 # The representativeness of automated Web crawls as a surrogate for human browsing - companion repository
 
-This repository contains or links to all assets relevant to the WWW'20 paper: The representative of automated Web crawls as a surrogate for human browsing.
+This repository contains or links to all assets relevant to the WWW'20 paper: [The representative of automated Web crawls as a surrogate for human browsing](https://dl.acm.org/doi/abs/10.1145/3366423.3380104). All listed assets will be made publicly available pending internal privacy/trust audit processes required prior to data release. For specific inquiries pertaining to data access and collaborations on privacy enhancing technologies research please reach out to the corresponding authors listed on the manuscript.
 
 * Lists used for crawls - under lists directory
 * Trexa repo - https://github.com/mozilla/trexa
