@@ -6,7 +6,7 @@ This repository contains or links to all assets relevant to the WWW'20 paper: [T
 * Trexa repo - https://github.com/mozilla/trexa
 * Crawl preparation - pre crawl and depth crawl code - https://github.com/mozilla/crawl-prep
 * Crawl database - [Google Doc](https://docs.google.com/spreadsheets/d/1HlocB39Ujaw2JH4Nm_0lXFqQ6GcQjJ7ONHHLFq-NReI/)
-* Crawl downloads - coming (est Apr 2020)
+* Crawl downloads - all the crawl data is stored in a S3 bucket. The total size of the data is 184.2GB comprised of 18.4GB for the 44 time sequence crawls, 36.4GB for the two large companion crawls of ~100k sites, and 129.4GB for the remaining 60 crawls. As the data is very large, we ask that you email the corresponding authors Dave Zeber or Sarah Bird to request access to the data.
 * Alternate orchestration repo - https://github.com/birdsarah/faust-selenium
 * [List comparison analysis](./list-comparison/top-site-list-comparison.ipynb)
 * DP-protected top-level domain visit counts for opt-in human users (est Apr 30, 2020)
