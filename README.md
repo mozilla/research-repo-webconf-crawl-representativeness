@@ -1,15 +1,20 @@
-# The representativeness of automated Web crawls as a surrogate for human browsing - companion repository
+# The representativeness of automated Web crawls as a surrogate for human browsing: companion repository
 
 This repository contains or links to all assets relevant to the WWW'20 paper: [The representative of automated Web crawls as a surrogate for human browsing](https://dl.acm.org/doi/abs/10.1145/3366423.3380104). All listed assets will be made publicly available pending internal privacy/trust audit processes required prior to data release. For specific inquiries pertaining to data access and collaborations on privacy enhancing technologies research please reach out to the corresponding authors listed on the manuscript.
 
-* Lists used for crawls - under lists directory
-* Trexa repo - https://github.com/mozilla/trexa
-* Crawl preparation - pre crawl and depth crawl code - https://github.com/mozilla/crawl-prep
-* Crawl database - [Google Doc](https://docs.google.com/spreadsheets/d/1HlocB39Ujaw2JH4Nm_0lXFqQ6GcQjJ7ONHHLFq-NReI/)
-* Crawl downloads - all the crawl data is stored in a S3 bucket. The total size of the data is 184.2GB comprised of 18.4GB for the 44 time sequence crawls, 36.4GB for the two large companion crawls of ~100k sites, and 129.4GB for the remaining 60 crawls. As the data is very large, we ask that you email the corresponding authors Dave Zeber or Sarah Bird to request access to the data.
-* Alternate orchestration repo - https://github.com/birdsarah/faust-selenium
-* [List comparison analysis](./list-comparison/top-site-list-comparison.ipynb)
-* DP-protected top-level domain visit counts for opt-in human users (est Apr 30, 2020)
+* Lists used for crawls: under [lists](./lists/) directory
+* Trexa repo: https://github.com/mozilla/trexa
+* Crawl preparation (pre crawl and depth crawl code): https://github.com/mozilla/crawl-prep
+* Crawl database: [Google Doc](https://docs.google.com/spreadsheets/d/1HlocB39Ujaw2JH4Nm_0lXFqQ6GcQjJ7ONHHLFq-NReI/)
+* Crawl downloads: all the crawl data is stored in a S3 bucket. The total size of the data is __184.2GB__ comprised of:
+    + 18.4GB for the 44 time sequence crawls
+    + 36.4GB for the two large companion crawls of ~100k sites
+    + 129.4GB for the remaining 60 crawls
+
+    As the data is very large, we ask that you email the corresponding authors Dave Zeber or Sarah Bird to request access to the data.
+* Alternate orchestration repo: https://github.com/birdsarah/faust-selenium
+* List comparison analysis: under [list-comparison](./list-comparison/top-site-list-comparison.ipynb) directory
+* DP-protected top-level domain ranking for opt-in human users: under [human-browsing-top-sites](./human-browsing-top-sites/top_dp_domains_human_browsing.csv) directory
 
 If you find any of the resources contained int his repository valuable for your research please cite the original manuscript for which this work was produced:
 
