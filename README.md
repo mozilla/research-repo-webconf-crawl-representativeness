@@ -14,7 +14,7 @@ This repository contains or links to all assets relevant to the WWW'20 paper: [T
     As the data is very large, we ask that you email the corresponding authors Dave Zeber or Sarah Bird to request access to the data.
 * Alternate orchestration repo: https://github.com/birdsarah/faust-selenium
 * List comparison analysis: under [list-comparison](./list-comparison/top-site-list-comparison.ipynb) directory
-* DP-protected top-level domain ranking for opt-in human users: under [human-browsing-top-sites](./human-browsing-top-sites/top_dp_domains_human_browsing.csv) directory
+* DP-protected top-level domain ranking for opt-in human users [August-2019]: under [human-browsing-top-sites](./human-browsing-top-sites/top_dp_domains_human_browsing.csv) directory
 
 If you find any of the resources contained int his repository valuable for your research please cite the original manuscript for which this work was produced:
 
