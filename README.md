@@ -11,7 +11,9 @@ This repository contains or links to all assets relevant to the WWW'20 paper: [T
     + 36.4GB for the two large companion crawls of ~100k sites
     + 129.4GB for the remaining 60 crawls
 
-    As the data is very large, we ask that you email the corresponding authors Dave Zeber or Sarah Bird to request access to the data.
+    The compressed crawl data (64GB) is available on BitTorrent on
+[AcademicTorrents](https://academictorrents.com/details/5e9ef2b5531ce3b965681be6eccab1fbd114af62/tech)
+    
 * Alternate orchestration repo: https://github.com/birdsarah/faust-selenium
 * List comparison analysis: under [list-comparison](./list-comparison/top-site-list-comparison.ipynb) directory
 * DP-protected top-level domain ranking for opt-in human users [August-2019]: under [human-browsing-top-sites](./human-browsing-top-sites/top_dp_domains_human_browsing.csv) directory
